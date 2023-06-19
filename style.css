@@ -55,7 +55,7 @@
 .objectives-container h3{
     background-color: #454f83;
     color: #fff;
-    width: 35%;
+    width: 50%;
     font-size: 20px;
     padding: 8px 10px;
     border-radius: 100px;
@@ -86,7 +86,7 @@ hr{
     text-align: center;
     text-transform: uppercase;
     margin: 16px auto;
-    width: 25%;
+    width: 20%;
 }
 .work-experience1 {
     width: 40%;
