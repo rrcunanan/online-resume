@@ -55,7 +55,7 @@
 .objectives-container h3{
     background-color: #454f83;
     color: #fff;
-    width: 50%;
+    width: 250px;
     font-size: 20px;
     padding: 8px 10px;
     border-radius: 100px;
@@ -86,7 +86,7 @@ hr{
     text-align: center;
     text-transform: uppercase;
     margin: 16px auto;
-    width: 20%;
+    width: 250px;
 }
 .work-experience1 {
     width: 40%;
@@ -110,7 +110,7 @@ hr{
     text-align: center;
     text-transform: uppercase;
     margin: 16px auto;
-    width: 50%;
+    width: 250px;
 }
 .skills{
     width: 33%;
